@@ -1,0 +1,120 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "description": "Description 1",
+      "price": 900
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "description": "Description 2",
+      "price": 1500
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "description": "Description 3",
+      "price": 2000
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "Title 1",
+      "description": "Description 1",
+      "category": "sports"
+    },
+    {
+      "id": 2,
+      "title": "Title 2",
+      "description": "Description 2",
+      "category": "politics"
+    },
+    {
+      "id": 3,
+      "title": "Title 3",
+      "description": "Description 3",
+      "category": "sports"
+    }
+  ],
+  "dashboard": {
+    "likes": "40M+",
+    "posts": "100+",
+    "followers": "10M+",
+    "following": "36"
+  },
+  "events": [
+    {
+      "id": 1,
+      "title": "Event 1",
+      "description": "Description 1",
+      "category": "sports",
+      "date": "12 Jan"
+    },
+    {
+      "id": 2,
+      "title": "Event 2",
+      "description": "Description 2",
+      "category": "sports",
+      "date": "15 Feb"
+    },
+    {
+      "id": 3,
+      "title": "Event 3",
+      "description": "Description 3",
+      "category": "politics",
+      "date": "2 Mar"
+    },
+    {
+      "id": 4,
+      "title": "Event 4",
+      "description": "Description 4",
+      "category": "sports",
+      "date": "7 Apr"
+    },
+    {
+      "id": 5,
+      "title": "Event 5",
+      "description": "Description 5",
+      "category": "sports",
+      "date": "25 May"
+    },
+    {
+      "id": 6,
+      "title": "Event 6",
+      "description": "Description 6",
+      "category": "sports",
+      "date": "20 Jun"
+    },
+    {
+      "id": 7,
+      "title": "Event 7",
+      "description": "Description 7",
+      "category": "education",
+      "date": "10 Aug"
+    },
+    {
+      "id": 8,
+      "title": "Event 8",
+      "description": "Description 8",
+      "category": "science",
+      "date": "26 Jan"
+    },
+    {
+      "id": 9,
+      "title": "Event 9",
+      "description": "Description 9",
+      "category": "sports",
+      "date": "02 Oct"
+    },
+    {
+      "id": 10,
+      "title": "Event 10",
+      "description": "Description 10",
+      "category": "tech",
+      "date": "25 Dec"
+    }
+  ]
+}

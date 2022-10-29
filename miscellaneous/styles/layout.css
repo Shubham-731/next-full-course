@@ -1,0 +1,23 @@
+header {
+  width: 100%;
+  padding: 25px 0;
+  text-align: center;
+  background: rgb(29, 207, 216);
+  font-size: 20px;
+  font-weight: 600;
+}
+
+footer {
+  width: 100%;
+  padding: 25px 0;
+  text-align: center;
+  background: rgb(147, 29, 216);
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.content {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+}

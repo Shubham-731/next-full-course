@@ -1,0 +1,49 @@
+.nav {
+  width: 100%;
+  position: relative;
+  border-bottom: 1px solid gray;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 40px;
+}
+
+.nav .menu {
+  display: flex;
+  align-items: center;
+}
+
+.menu_tab {
+  margin: auto 20px;
+  list-style: none;
+}
+
+.menu_link {
+  color: rgba(0, 0, 0, 0.8);
+  text-decoration: none;
+}
+
+.auth_btn {
+  background-color: rgb(18, 215, 237);
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  padding: 8px 16px;
+  margin: auto 12px;
+  cursor: pointer;
+}
+
+.auth_link {
+  text-decoration: none;
+  color: black;
+}
+
+.loading {
+  opacity: 0;
+  transition: all 0.2s ease-in;
+}
+
+.loaded {
+  opacity: 1;
+  transition: all 0.2s ease-in;
+}
